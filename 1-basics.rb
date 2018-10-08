@@ -53,7 +53,7 @@
 # =================
   
   countries = ["canada", "brazil", "spain"]
-   cities = ["Bronx", "Manhattan", "Queens"]  
+  
 # =================
 # hash
 # =================
