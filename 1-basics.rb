@@ -7,6 +7,7 @@
   puts "We are learning branches in Git!"
   puts "Hello from the Mac Pro!"
   puts "Leroy Learning Branches"
+  puts "Welcome to Git Remote Repo"
 # =================
 # types
 # =================
